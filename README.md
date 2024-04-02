@@ -12,4 +12,4 @@
 
 ## Extra
 
-- BHVR uses Post-FX for icons; in Blender, focus on adjusting saturation and shadow darkness for similar effects.
+- BHVR uses Post-FX for icons. ive gotten it close enough in blender
