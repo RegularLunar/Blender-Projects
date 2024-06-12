@@ -1,3 +1,5 @@
+# Blender 3.6+. Lighting will break in older versions
+
 ## Lighting
 
 - The HDR lighting was tested exclusively with Nea and may not produce optimal results with other characters.
