@@ -11,7 +11,7 @@
 
 - Modify the camera in pose mode, easily accessible via Control+Tab to switch between object and pose mode.
 - For Dead by Daylight (DBD) icons, use 512x512 at 300% scale for a 1536x1536 resolution in-game.
-- There is 6 cameras, one for each survivor body part.
+- There is 6 cameras, one for each survivor body part, Male and Female.
 - This project was made for survivors. Killers will not be made as there is many different heights.
 
 ## Extra
