@@ -18,3 +18,4 @@
 
 - BHVR uses Post-FX for icons. ive gotten it close enough in blender
 - The project automatically comes with a layout. if you dont like the layout the go to Edit > Preferences > Save & Load > Uncheck Load UI. Then reopen the project.
+- For best results please use `CUDA` under cycle render devices.
